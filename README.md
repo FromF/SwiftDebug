@@ -1,0 +1,2 @@
+# SwiftDebug
+Swiftコードでdebugログ出力するためのコード
